@@ -8,9 +8,14 @@ Say you're tasked to investigate a suspect's computer and you find a zip file th
 
 usage:
 
-    extract				specify full path to your zip file
-    fullextract			extract all files in zip archiv
-    build				build you archive Zip
+    extract				specify full path to your zip sub file
+    fullextract			extract all files in zip
+    build				build your Zip
     info 				info about archiv
-    crack				cracka zip file protected by pass 
+    crack				zip file brute force
     banner				show banner
+
+
+
+
+Powred by LearnMeToHack
