@@ -2,11 +2,11 @@
 
 Say you're tasked to investigate a suspect's computer and you find a zip file that seems very useful but protected by a password. In this tutorial, you will write a simple Python script that tries to crack a zip file's password using dictionary attack.
 
-## requirement:
+## Requirement:
 
     pip3 install tqdm
 
-usage:
+## Usage:
 
     extract				specify full path to your zip sub file
     fullextract			extract all files in zip
